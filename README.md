@@ -1,8 +1,5 @@
 # 🌌 Antigravity 2.0 — Self-Evolving Automated Reviews
 
-> *"Any sufficiently advanced AI workflow is indistinguishable from magic."*  
-> — Arthur C. Clarke, if he'd been a vibe coder
-
 Welcome to the **Antigravity 2.0 Self-Evolving Automated Reviews** — a code-free operational review blueprint extracted from my own monorepo. This template packages the complete AI-native development ecosystem: self-optimizing review prompts, modular skill runbooks, automated report orchestration, and the kind of VIBE developer workflow that makes your codebase feel like it's maintaining itself.
 
 No application code lives here. Only the scaffolding, the brain, and the vibes.
